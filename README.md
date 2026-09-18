@@ -1,4 +1,4 @@
-# # Olá, eu sou Luka Nascimento Silva 
+ Olá, eu sou Luka Nascimento Silva 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Desenvolvimento Web e Banco de Dados  
